@@ -3,6 +3,4 @@ language: python
 
 # version numbers
 python:
-  - "3.3"
   - "3.4"
-  - "pypy"
