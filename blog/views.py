@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import Post
+from .models import Post #Dot after from means current directory or current application. 
 from django.utils import timezone
 from django.shortcuts import render, get_object_or_404
 from .forms import PostForm
